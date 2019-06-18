@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">View0617</string>
+    <string name="displaytext">
+        동작하는 코드는 끝이 아니라 시작입니다.
+        코드를 자꾸 읽고 최적화하는 연습을 하세요.
+        선임 프로그래머에게는 개발 기법이나 코딩 방법을 배우세요
+
+    </string>
+    <string name="displaytext2">
+        버튼을 눌러서 바꿨습니다.
+    </string>
+
+</resources>
